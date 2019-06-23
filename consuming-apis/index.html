@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Header</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+    <!-- 
+    . means class
+    # means id -->
+    <!-- EMMET -->
+    <!-- <form action="/" method="get" class="myform">
+        <input type="text" name="" id="" class="myinput">
+        <input type="text" name="" id="" class="myinput">
+        <button id="submit">dbsajkdbkasd</button>
+    </form> -->
+    <!-- cc-leaderboard -->
+    <!-- AJAX and Jquery -->
+    <!-- async js and xml -->
+    <!-- DOM -->
+
+    <form action="">
+        <input type="text" name="t1" id="t1">
+        <input type="text" name="t2" id="t2">
+        <button id="sub">Click me first</button>
+    </form>
+
+    <div id="populate"></div>
+    <button id="submit">CLICK ME</button>
+    <script>
+        // $("#submit").html('')
+        
+        // $("#submit").on("click", () => {
+        //     let url = "http://cc-leaderboard.herokuapp.com/leaderboard"
+        //     let url2 = "http://cc-leaderboard.herokuapp.com/seed"
+        //     // $.get(url, (data) => {
+        //     //     let jsonData = JSON.parse(data)
+        //     //     console.table(jsonData.payload)
+        //     //     for(let i of jsonData.payload) {
+        //     //         $("#populate").append(`<strong>${i.name}</strong><br><p></p>`)
+        //     //     }
+        //     // })
+        //     $.ajax({
+        //         url: url2,
+        //         type: "get",
+        //         success: (data) => {
+        //             console.log(data)
+        //         }
+        //     })
+        //     $.ajax({
+        //         url: url,
+        //         type: "get",
+        //         success: (data) => {
+        //             console.log(data)
+        //         }
+        //     })
+           
+        // })
+        $("#sub").on("click", (e) => {
+            e.preventDefault()
+            alert("hi")
+            let t1 = $("#t1").val()
+            let t2 = $("#t2").val()
+                  $.ajax({
+                url: url,
+                type: "delete",
+                data: {t1, t2},
+                success: (data) => {
+                    console.log(data)
+                }
+            })
+        })
+
+    </script>
+</body>
+</html>
