@@ -9,5 +9,5 @@
 
 ## Similar Commands
    RHEL7.5           				Ubuntu
-   yum install <package name>      apt-get  install <package name>
+ - yum install <package name>      apt-get  install <package name>
    
