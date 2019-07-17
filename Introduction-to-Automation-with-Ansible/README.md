@@ -8,6 +8,8 @@
  - The file format for writing the ansible playbooks will be YAML
 
 ## Similar Commands
-   RHEL7.5           				Ubuntu
- - yum install <package name>      apt-get  install <package name>
+
+ | RHEL8 | Ubuntu | Function
+  --------------------------------------------------------------- | :------------------------------------------------------------: | :---------------------------------------------: |
+  | yum install <package name> | apt-get install <package name> |  Command to install software 
    
