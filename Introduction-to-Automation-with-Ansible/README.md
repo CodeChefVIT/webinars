@@ -24,7 +24,7 @@
 ## Files Used 
  | File Name | Default Location | Function
    --------------------------------------------------------------- | :------------------------------------------------------------: | :---------------------------------------------: |
-   | hosts  |  /etc/ansible/hosts    | File where all the nodes/hosts of clients are made
+   | hosts  |  /etc/ansible/hosts    | File where all the nodes/hosts  of clients entry are made
    | ansible.cfg  |  /etc/ansible/ansible.cfg   | Main configuration file of Ansible
    | fstab       |   /etc/fstab                 | To make a mount permanent we make an entry in this file
    | index.html(can use other name)    | /var/www/html/index.html    | Directory of Httpd web server
@@ -40,5 +40,11 @@
    - yum whatprovides (software name) : Tells which package provides the required software
    - yum list all : Lists all available and installed packages
    - [yum cheatsheet here](https://access.redhat.com/articles/yum-cheat-sheet)
+
+## Ansible 
+ - Ansible has 3 main components
+   1) Control Machine : Manages Execution of Playbooks
+   2) Inventory : lists all the target machines
+   3) Playbooks : steps that will be performed on servers
 
 
