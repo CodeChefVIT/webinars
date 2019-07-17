@@ -13,3 +13,6 @@
   --------------------------------------------------------------- | :------------------------------------------------------------: | :---------------------------------------------: |
   | yum install (package name) | apt-get install (package name) |  Command to install software 
   | yum remove (package name)  | apt-get remove  (package name)  |  Command to uninstall/remove a software
+  | ssh-keygen                 | ssh-keygen                      | Generates a ssh keypair 
+  | ssh-copy-id (remote system address)  | ssh-copy-id (remote system address) | Sends key-pair to remote system
+  | yum install ansible        |  apt-get install ansible        |  Installs ansible 
