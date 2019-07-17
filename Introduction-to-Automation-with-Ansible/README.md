@@ -17,4 +17,14 @@
   | ssh-keygen                 | ssh-keygen                      | Generates a ssh keypair 
   | ssh-copy-id (remote system address)  | ssh-copy-id (remote system address) | Sends key-pair to remote system
   | yum install ansible        |  apt-get install ansible        |  Installs ansible 
-  | mount dir1  dir2           | mount dir1  dir2                |  Mounting drives dir1: drive to mount dir2: location to mount
+  | mount dir1  dir2           | mount dir1  dir2                |  Mounting drives, dir1: drive to mount, dir2: location to mount
+  | df -hT                     | df -hT                          | Show All mounted drives
+
+
+## Files Used 
+ | File Name | Default Location | Function
+   --------------------------------------------------------------- | :------------------------------------------------------------: | :---------------------------------------------: |
+   | hosts  |  /etc/ansible/hosts    | File where all the nodes/hosts of clients are made
+   | ansible.cfg  |  /etc/ansible/ansible.cfg   | Main configuration file of Ansible
+   | fstab       |   /etc/fstab                 | To make a mount permanent we make an entry in this file
+   | index.html(can use other name)    | /var/www/html/index.html    | Directory of Httpd web server
