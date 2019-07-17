@@ -11,5 +11,5 @@
 
  | RHEL8 | Ubuntu | Function
   --------------------------------------------------------------- | :------------------------------------------------------------: | :---------------------------------------------: |
-  | yum install <package name> | apt-get install <package name> |  Command to install software 
-   
+  | yum install (package name) | apt-get install (package name) |  Command to install software 
+  | yum remove (package name)  | apt-get remove  (package name)  |  Command to uninstall/remove a software
