@@ -8,6 +8,7 @@
  - The file format for writing the ansible playbooks will be YAML
 
 ## Similar Commands
+ - List of Commands to show similarity between Red Hat and Ubuntu
 
  | RHEL8 | Ubuntu | Function
   --------------------------------------------------------------- | :------------------------------------------------------------: | :---------------------------------------------: |
@@ -16,3 +17,4 @@
   | ssh-keygen                 | ssh-keygen                      | Generates a ssh keypair 
   | ssh-copy-id (remote system address)  | ssh-copy-id (remote system address) | Sends key-pair to remote system
   | yum install ansible        |  apt-get install ansible        |  Installs ansible 
+  | mount dir1  dir2           | mount dir1  dir2                |  Mounting drives dir1: drive to mount dir2: location to mount
