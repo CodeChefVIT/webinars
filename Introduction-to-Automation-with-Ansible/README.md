@@ -41,10 +41,23 @@
    - yum list all : Lists all available and installed packages
    - [yum cheatsheet here](https://access.redhat.com/articles/yum-cheat-sheet)
 
+
+## Automation tools Comparision
+- [Click Here to check a video explaning different automation tools](https://www.youtube.com/watch?v=h4hWzlSqF18)
+
 ## Ansible 
  - Ansible has 3 main components
    1) Control Machine : Manages Execution of Playbooks
    2) Inventory : lists all the target machines
    3) Playbooks : steps that will be performed on servers
+
+## Ansible Repos to checkout
+  - [Introduction to Ansible](https://github.com/ansible/ansible)
+  - [Ansible Examples](https://github.com/ansible/ansible-examples)
+  - [ansible galaxy Repo](https://github.com/ansible/galaxy)
+  - [Openshift configuration](https://github.com/openshift/openshift-ansible)
+
+## Extra Content
+- [How Devops Influenced Game of Thrones](https://www.eweek.com/cloud/why-hbo-chose-kubernetes-to-help-stream-game-of-thrones)
 
 
