@@ -58,6 +58,6 @@
   - [Openshift configuration](https://github.com/openshift/openshift-ansible)
 
 ## Extra Content
-- [How Devops Influenced Game of Thrones](https://www.youtube.com/watch?v=9MOZ7-CvJew)
+- [How Devops Influenced Game of Thrones](https://www.eweek.com/cloud/why-hbo-chose-kubernetes-to-help-stream-game-of-thrones)
 
 
