@@ -10,7 +10,7 @@
 ## Similar Commands
  - List of Commands to show similarity between Red Hat and Ubuntu
 
- | RHEL8 | Ubuntu | Function
+ | RHEL7 | Ubuntu | Function
   --------------------------------------------------------------- | :------------------------------------------------------------: | :---------------------------------------------: |
   | yum install (package name) | apt-get install (package name) |  Command to install software 
   | yum remove (package name)  | apt-get remove  (package name)  |  Command to uninstall/remove a software
@@ -28,3 +28,17 @@
    | ansible.cfg  |  /etc/ansible/ansible.cfg   | Main configuration file of Ansible
    | fstab       |   /etc/fstab                 | To make a mount permanent we make an entry in this file
    | index.html(can use other name)    | /var/www/html/index.html    | Directory of Httpd web server
+
+## What is yum
+- Yum is the primary tool for installing ,deleting and managing software packages in Red Hat linux .
+- Yum contains all packages and software required by the OS .
+- When we install a software through yum , yum automatically detects the software from its directory for us and installs it .
+- Some common yum commands 
+   - yum install (software name)  : Installs desired software
+   - yum remove (software name)   : Uninstalls software
+   - yum repolist : States the number of softwares present in yum
+   - yum whatprovides (software name) : Tells which package provides the required software
+   - yum list all : Lists all available and installed packages
+   - [yum cheatsheet here](https://access.redhat.com/articles/yum-cheat-sheet)
+
+
