@@ -1,0 +1,5 @@
+- hosts: localhost
+  tasks:
+    - git:
+        repo: https://github.com/DiptoChakrabarty/Sample.git
+        dest: /root/Desktop/Github/Sample
