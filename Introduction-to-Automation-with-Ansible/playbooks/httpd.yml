@@ -1,0 +1,17 @@
+- hosts: all
+  tasks:
+  - package:
+  		name: httpd
+  		state: present
+  - copy:
+  		dest: /var/www/html
+  		src: ./index.html
+  - service:
+  		name: httpd
+  		state: started
+  		enabled: yes
+  - firewalld:
+  		state: enabled
+  		port: 80/tcp
+  		immediate: yes
+  		permanent: yes
