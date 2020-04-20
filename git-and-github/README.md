@@ -1,6 +1,0 @@
-## Git and Github
-An introduction to git an github
-
-<br/>
-
-[webinar link](https://www.facebook.com/codechefvit/videos/1011390399066124/?__tn__=kC-R&eid=ARAVxgQz0iq7MuG-3uPzRnlKnnvk5Hgc6-hHMJbAsKZeS1XhRE7eUVRvxx9qKGhXosmTUXf1I3Cmmf4U&hc_ref=ARRFgShZEgcP37A8ZtlTwJSNr9wsQSRcKNQG5vUxqf8jY-gVvTZ2qd1mfPZGvKrbyoE&__xts__[0]=68.ARCx-nUJFlpfhidsdTrtuaOUx-AGjOAjBr06hlg4A63c6N5YNfhKJlE93uzyANpcMtiVelrFbUtkG0TFNzziVY8tjOgg4ToY9TFJ9-oVVznOWMwe61IPz36amcrCeJB-NFAypz-3EU6q1l3WenZWEyP4gFYfwu8PRmapCrKJgQSvflZokhibBPNOIYd698Os1b9HDsk-HXFVLuiP8yiTUVzxJMB_0ZOH8sWlyLSS8mMJj8jd353xmTACsx6i6nIwplnO_7mIb4HwArFtROhR0RBJlS-hZNR2Dn4h2Xn4e-V_4-pVdbrt6JxDeNm3XUGz_KjNY2hvn_4VOG1nod2coyxg19pxmVw2xVI)
