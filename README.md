@@ -14,7 +14,7 @@ A list of webinars conducted by us
 | Introduction to Automation with Ansible                                                       | [Link](https://www.facebook.com/codechefvit/videos/210814896488714/)  |    17th July 2019 |       [Ansible Automation](https://github.com/CodeChefVIT/webinars/tree/master/Introduction-to-Automation-with-Ansible)        |
 | Introduction to PHP                                                                           | [Link](https://www.facebook.com/codechefvit/videos/537200067011030/)  | 6th December 2019 |                          [Introduction to PHP](https://www.studytonight.com/php/introduction-to-php)                           |
      
-| C by Rakshit                                                                          | [Link](https://www.facebook.com/codechefvit/videos/1334681746919673/)  | 4th April 2020 |                          [C by Rakshit](https://www.facebook.com/codechefvit/videos/1334681746919673/)                           |
-
+| C by Rakshit                                                                                  | [Link](https://www.facebook.com/codechefvit/videos/1334681746919673/) | 4th April 2020    |                          [C by Rakshit](https://www.facebook.com/codechefvit/videos/1334681746919673/)                           |
+ 
 
      
