@@ -1,15 +1,13 @@
 # CodeChef VIT
 
-A list of webinars conducted by CodeChef VIT
-
-
+A list of webinars conducted by us
 
 ## Webinars
 
 | Topic                                                                                         |                                 Link                                  |              Date |                                                           Resources                                                            |
+| --------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------: | ----------------: | :----------------------------------------------------------------------------------------------------------------------------: |              
 | Git and Github Basics                                                     | [Link](https://www.facebook.com/codechefvit/videos/1011390399066124/)  |    5th May 2019 |       [Git and Github Basics ](https://www.facebook.com/codechefvit/videos/1011390399066124/)        |
 | Api develpment using Node js by Yash                                                          | [Link](https://www.facebook.com/codechefvit/videos/386584228621534/)  | 20th May 2019 |                          [Api develpment using Node js by Yash](https://www.facebook.com/codechefvit/videos/386584228621534/) |
-| Consuming APIs                                                                                | [Link](https://www.facebook.com/codechefvit/videos/270778887096934/)  |    23rd June 2019 |                      [Consuming APIs](https://github.com/CodeChefVIT/webinars/tree/master/consuming-apis)                      |
 | Introduction to Automation with Ansible                                                       | [Link](https://www.facebook.com/codechefvit/videos/210814896488714/)  |    17th July 2019 |       [Ansible Automation](https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FCodeChefVIT%2Fwebinars%2Ftree%2Fmaster%2FIntroduction-to-Automation-with-Ansible%3Ffbclid%3DIwAR0heoDAUDDDqwjB6ZNeWIuV-XoJGcB8382pyic5cNxMobMEO8xFTBInBiM&h=AT3gswHsqiP2X0y4m0eOdyXcp4mIbsgIpop8MD_og8G4gMRhglxeaMgXMsMB77jF2zFvrz4YUsgzvk4aXt7aJDzbsvULZtG-JDzW2oM_Ncjp5nzND19vgxhXvR0-dQokPQGS&__tn__=-UK-R)        |             
 |Python Quick Start by Muskaan                                                                                  | [Link](https://www.facebook.com/codechefvit/videos/334303947460567/) | 24th July 2019    |                          [Python Quick Start by Muskaan](https://www.facebook.com/codechefvit/videos/334303947460567/)                           |
 | Intro to ML with python                                                                               | [Link](https://www.facebook.com/codechefvit/videos/355575548702948/) | 1st August 2019   |                          [Intro to ML with python](https://www.facebook.com/codechefvit/videos/355575548702948/)                           |
