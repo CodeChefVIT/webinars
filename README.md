@@ -1,6 +1,6 @@
 # CodeChef VIT
 
-A list of webinars conducted by us
+A list of webinars conducted by CodeChef VIT
 
 
 
@@ -8,6 +8,7 @@ A list of webinars conducted by us
 
 | Topic                                                                                         |                                 Link                                  |              Date |                                                           Resources                                                            |
 | --------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------: | ----------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+| Dive Into DSA(Searching & Sorting Algo)                                                                                | [Link](https://www.youtube.com/watch?v=AmRc6D_Nhiw)  |    27th April 2020 |                      [Searching & Sorting Algo](https://github.com/CodeChefVIT/webinars/tree/master/consuming-apis)                      |
 | Consuming APIs                                                                                | [Link](https://www.facebook.com/codechefvit/videos/270778887096934/)  |    23rd June 2019 |                      [Consuming APIs](https://github.com/CodeChefVIT/webinars/tree/master/consuming-apis)                      |
 | C by Rakshit                                                                                  | [Link](https://www.facebook.com/codechefvit/videos/1334681746919673/) | 4th April 2020 |                          [C by Rakshit](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1W1K8dbS7OzZFb2QUPOfFqUNcjojHa_Bo%3Fusp%3Dsharing%26fbclid%3DIwAR19eStY7jTmlEFC73OermnCWW_tdUwJGxLRoyW_NSIB992XX_UqoLJt6jo&h=AT1iSTUowSj21eXy4xdGK1aa_iMfJox70OXyil8O_lleNdDqruZSHXzDntQz9D3GwYLcS4Gql7YDOZvATFEynOtR8pQooWzGgJq6mTrhoeQHTlS33J6tu9FpJrEAcJ8DUh4e&__tn__=R-R)                         |
 | Android Dev by Ishitva                                                                        | [Link](https://www.facebook.com/codechefvit/videos/421689051869209/)  | 16th October 2020 |                          [Android Dev by Ishitva](https://www.facebook.com/codechefvit/videos/421689051869209/)                |
