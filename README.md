@@ -1,6 +1,6 @@
 # CodeChef VIT
 
-A list of webinars conducted by us
+A list of webinars conducted by CodeChef VIT
 
 
 
