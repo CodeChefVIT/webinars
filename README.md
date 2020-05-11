@@ -27,4 +27,5 @@ A list of webinars conducted by us
 | Getting Started With APIs                                                                          | [Link](https://youtu.be/MfK9u9y63xc)  | 20th April 2020 |                          [Getting Started With APIs](https://github.com/unknown-guy-1610/TodoList-API.git)|  
 | Dive Into DSA(Searching & Sorting Algo)                                                                           | [Link](https://youtu.be/AmRc6D_Nhiw)  | 27th April 2020 |                          [Dive Into DSA(Searching & Sorting Algo)](https://github.com/CodeChefVIT/webinars/tree/master/Searching%20%26%20Sorting%20Algo)|  
 | Stacks and Queues by Rakshit                                                                               | [Link](https://youtu.be/vb9teacNj2M) | 3rd May 2020    |                          [Stacks and Queues by Rakshit ](https://github.com/rmaggon6/Webinar_on_DSA.git)  |
+| Fundametals of UI/UX                                                                              | [Link](https://youtu.be/ZXD0DROYJoI) | 10th May 2020    |                          [Fundametals of UI/UX  ](https://github.com/aditya-beri/UI-UX.git)  |
 
